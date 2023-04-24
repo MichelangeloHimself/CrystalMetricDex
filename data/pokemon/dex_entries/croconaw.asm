@@ -1,0 +1,10 @@
+	db "BIG JAW@" ; species name
+	dw 110, 250 ; height, weight
+	; METRIC
+	db   "The tips of its"
+	next "fangs are slanted"
+	next "backward. Once"
+
+	page "those fangs clamp"
+	next "down, the prey has"
+	next "no hope of escape.@"
