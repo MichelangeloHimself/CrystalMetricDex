@@ -1,5 +1,5 @@
 	db "WOOL@" ; species name
-	dw 008, 133 ; height, weight
+	dw 080, 133 ; height, weight
 	
 	db   "Because of its"
 	next "rubbery, electric-"

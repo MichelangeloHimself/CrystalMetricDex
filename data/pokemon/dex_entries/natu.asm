@@ -1,5 +1,5 @@
 	db "LITTLE BIRD@" ; species name
-	dw 002, 020 ; height, weight
+	dw 020, 020 ; height, weight
 	
 	db   "It is extremely"
 	next "good at climbing"
