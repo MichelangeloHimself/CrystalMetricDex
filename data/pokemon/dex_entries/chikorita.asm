@@ -1,6 +1,6 @@
 	db "LEAF@" ; species name
 	dw 090, 064 ; height, weight
-	; METRIC
+	
 	db   "It loves to bask"
 	next "in the sunlight."
 	next "It uses the leaf"

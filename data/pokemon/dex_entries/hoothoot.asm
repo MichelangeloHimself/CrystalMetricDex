@@ -1,6 +1,6 @@
 	db "OWL@" ; species name
 	dw 070, 212 ; height, weight
-	; METRIC
+	
 	db   "It begins to hoot"
 	next "at the same time"
 	next "every day. Some"

@@ -1,6 +1,6 @@
 	db "ROCK SKIN@" ; species name
 	dw 060, 720 ; height, weight
-	; METRIC
+	
 	db   "Born deep under-"
 	next "ground, this"
 	next "#MON becomes a"

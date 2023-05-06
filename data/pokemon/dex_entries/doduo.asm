@@ -1,6 +1,6 @@
 	db "TWIN BIRD@" ; species name
 	dw 140, 392 ; height, weight
-	; METRIC
+	
 	db   "It lives on a"
 	next "grassy plain where"
 	next "it can see a long"

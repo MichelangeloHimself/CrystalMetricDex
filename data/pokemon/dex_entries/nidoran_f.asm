@@ -1,6 +1,6 @@
 	db "POISON PIN@" ; species name
 	dw 040, 070 ; height, weight
-	; METRIC
+	
 	db   "Small and very"
 	next "docile, it pro-"
 	next "tects itself with"

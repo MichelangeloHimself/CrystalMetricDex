@@ -1,6 +1,6 @@
 	db "GAS@" ; species name
 	dw 130, 001 ; height, weight
-	; METRIC
+	
 	db   "It wraps its op-"
 	next "ponent in its gas-"
 	next "like body, slowly"

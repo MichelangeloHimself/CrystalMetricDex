@@ -1,6 +1,6 @@
 	db "RAINBOW@" ; species name
 	dw 380, 1990 ; height, weight
-	; METRIC
+	
 	db   "It will reveal"
 	next "itself before a"
 	next "pure-hearted"

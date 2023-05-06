@@ -1,6 +1,6 @@
 	db "MOONLIGHT@" ; species name
 	dw 100, 270 ; height, weight
-	; METRIC
+	
 	db   "On the night of a"
 	next "full moon, or when"
 	next "it gets excited,"

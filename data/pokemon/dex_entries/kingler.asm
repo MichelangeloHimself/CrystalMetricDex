@@ -1,6 +1,6 @@
 	db "PINCER@" ; species name
 	dw 130, 600 ; height, weight
-	; METRIC
+	
 	db   "Its oversized claw"
 	next "is very powerful,"
 	next "but when it's not"

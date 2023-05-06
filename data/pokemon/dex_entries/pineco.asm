@@ -1,6 +1,6 @@
 	db "BAGWORM@" ; species name
 	dw 060, 072 ; height, weight
-	; METRIC
+	
 	db   "It spits out a"
 	next "fluid that it uses"
 	next "to glue tree bark"

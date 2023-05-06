@@ -1,6 +1,6 @@
 	db "ELECTRIC@" ; species name
 	dw 060, 235 ; height, weight
-	; METRIC
+	
 	db   "It loves violent"
 	next "thunder. The space"
 	next "between its horns"

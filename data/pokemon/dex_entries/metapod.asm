@@ -1,6 +1,6 @@
 	db "COCOON@" ; species name
 	dw 070, 099 ; height, weight
-	; METRIC
+	
 	db   "This is its pre-"
 	next "evolved form. At"
 	next "this stage, it can"

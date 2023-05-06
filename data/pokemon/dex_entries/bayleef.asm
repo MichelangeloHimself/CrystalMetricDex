@@ -1,6 +1,6 @@
 	db "LEAF@" ; species name
 	dw 120, 158 ; height, weight
-	; METRIC
+	
 	db   "The scent that"
 	next "wafts from the"
 	next "leaves on its neck"

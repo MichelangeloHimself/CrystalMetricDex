@@ -1,6 +1,6 @@
 	db "JET@" ; species name
 	dw 090, 285 ; height, weight
-	; METRIC
+	
 	db   "Its instinct is to"
 	next "bury itself in"
 	next "holes. It often"

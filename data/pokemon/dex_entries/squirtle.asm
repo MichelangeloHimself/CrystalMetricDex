@@ -1,6 +1,6 @@
 	db "TINYTURTLE@" ; species name
 	dw 050, 090 ; height, weight
-	; METRIC
+	
 	db   "When it feels"
 	next "threatened, it"
 	next "draws its legs"

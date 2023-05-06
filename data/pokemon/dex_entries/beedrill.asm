@@ -1,6 +1,6 @@
 	db "POISON BEE@" ; species name
 	dw 100, 295 ; height, weight
-	; METRIC
+	
 	db   "It uses sharp,"
 	next "poisonous stings"
 	next "to defeat prey,"

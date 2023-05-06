@@ -1,6 +1,6 @@
 	db "DOPEY@" ; species name
 	dw 120, 360 ; height, weight
-	; METRIC
+	
 	db   "It is always so"
 	next "absent-minded that"
 	next "it won't react,"

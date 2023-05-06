@@ -1,6 +1,6 @@
 	db "FOX@" ; species name
 	dw 060, 099 ; height, weight
-	; METRIC
+	
 	db   "As its body grows"
 	next "larger, its six"
 	next "warm tails become"

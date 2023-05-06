@@ -1,6 +1,6 @@
 	db "SNAKE@" ; species name
 	dw 200, 690 ; height, weight
-	; METRIC
+	
 	db   "It flutters the"
 	next "tip of its tongue"
 	next "to seek out the"

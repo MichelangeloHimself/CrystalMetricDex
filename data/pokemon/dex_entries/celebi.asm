@@ -1,6 +1,6 @@
 	db "TIMETRAVEL@" ; species name
 	dw 060, 050 ; height, weight
-	; METRIC
+	
 	db   "Revered as a"
 	next "guardian of the"
 	next "forest, CELEBI"

@@ -1,6 +1,6 @@
 	db "LITTLE BEAR@" ; species name
 	dw 060, 088 ; height, weight
-	; METRIC
+	
 	db   "It always licks"
 	next "honey. Its palm"
 	next "tastes sweet"

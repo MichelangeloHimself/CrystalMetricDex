@@ -1,6 +1,6 @@
 	db "STAGBEETLE@" ; species name
 	dw 150, 550 ; height, weight
-	; METRIC
+	
 	db   "When the tempera-"
 	next "ture drops at"
 	next "night, it sleeps"

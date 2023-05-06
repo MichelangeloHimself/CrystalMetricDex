@@ -1,6 +1,6 @@
 	db "BALL@" ; species name
 	dw 120, 666 ; height, weight
-	; METRIC
+	
 	db   "The more energy it"
 	next "charges up, the"
 	next "faster it gets."

@@ -1,6 +1,6 @@
 	db "WEED@" ; species name
 	dw 080, 086 ; height, weight
-	; METRIC
+	
 	db   "The smell from its"
 	next "drool-like syrup"
 	next "and the pollen on"

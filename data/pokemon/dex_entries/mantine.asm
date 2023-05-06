@@ -1,6 +1,6 @@
 	db "KITE@" ; species name
 	dw 210, 2200 ; height, weight
-	; METRIC
+	
 	db   "It swims along"
 	next "freely, eating"
 	next "things that swim"

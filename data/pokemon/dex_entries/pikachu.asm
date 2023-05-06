@@ -1,6 +1,6 @@
 	db "MOUSE@" ; species name
 	dw 040, 060 ; height, weight
-	; METRIC
+	
 	db   "When it is anger-"
 	next "ed, it immediately"
 	next "discharges the"

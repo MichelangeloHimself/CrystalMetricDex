@@ -1,6 +1,6 @@
 	db "BALLOON@" ; species name
 	dw 050, 039 ; height, weight
-	; METRIC
+	
 	db   "When faced with a"
 	next "larger opponent,"
 	next "it swallows as"

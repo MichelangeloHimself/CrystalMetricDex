@@ -1,6 +1,6 @@
 	db "DARK@" ; species name
 	dw 060, 108 ; height, weight
-	; METRIC
+	
 	db   "Around dawn, its"
 	next "ominous howl"
 	next "echoes through the"

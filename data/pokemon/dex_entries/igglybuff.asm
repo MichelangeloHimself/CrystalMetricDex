@@ -1,6 +1,6 @@
 	db "BALLOON@" ; species name
 	dw 030, 010 ; height, weight
-	; METRIC
+	
 	db   "Instead of walking"
 	next "with its short"
 	next "legs, it moves"

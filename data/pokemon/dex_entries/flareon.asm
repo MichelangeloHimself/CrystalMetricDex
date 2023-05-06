@@ -1,6 +1,6 @@
 	db "FLAME@" ; species name
 	dw 090, 250 ; height, weight
-	; METRIC
+	
 	db   "Once it has stored"
 	next "up enough heat,"
 	next "this #MON's"

@@ -1,6 +1,6 @@
 	db "HARD SHELL@" ; species name
 	dw 120, 1520 ; height, weight
-	; METRIC
+	
 	db   "It will not stay"
 	next "still, even while"
 	next "it's a pupa. It"

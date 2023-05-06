@@ -1,6 +1,6 @@
 	db "CLASSY CAT@" ; species name
 	dw 100, 320 ; height, weight
-	; METRIC
+	
 	db   "Behind its lithe,"
 	next "elegant appearance"
 	next "lies a barbaric"

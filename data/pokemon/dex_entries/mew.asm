@@ -1,6 +1,6 @@
 	db "NEW SPECIE@" ; species name
 	dw 040, 040 ; height, weight
-	; METRIC
+	
 	db   "Because it can"
 	next "learn any move,"
 	next "some people began"

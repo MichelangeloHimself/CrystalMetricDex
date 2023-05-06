@@ -1,6 +1,6 @@
 	db "DRAGON@" ; species name
 	dw 120, 250 ; height, weight
-	; METRIC
+	
 	db   "The male raises"
 	next "the young. If it"
 	next "is approached, it"

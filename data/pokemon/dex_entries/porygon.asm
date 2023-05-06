@@ -1,6 +1,6 @@
 	db "VIRTUAL@" ; species name
 	dw 080, 365 ; height, weight
-	; METRIC
+	
 	db   "An artificial"
 	next "#MON created"
 	next "due to extensive"

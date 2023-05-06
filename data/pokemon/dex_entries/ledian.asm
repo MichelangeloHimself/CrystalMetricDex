@@ -1,6 +1,6 @@
 	db "FIVE STAR@" ; species name
 	dw 140, 356 ; height, weight
-	; METRIC
+	
 	db   "In the daytime"
 	next "when it gets warm,"
 	next "it curls up inside"

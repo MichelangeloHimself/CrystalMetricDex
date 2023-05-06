@@ -1,6 +1,6 @@
 	db "LIGHT@" ; species name
 	dw 140, 615 ; height, weight
-	; METRIC
+	
 	db   "When it gets dark,"
 	next "the light from its"
 	next "bright, shiny tail"

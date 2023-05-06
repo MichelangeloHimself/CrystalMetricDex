@@ -1,6 +1,6 @@
 	db "SPIKE BALL@" ; species name
 	dw 030, 015 ; height, weight
-	; METRIC
+	
 	db   "It is considered"
 	next "to be a symbol of"
 	next "good luck. Its"

@@ -1,6 +1,6 @@
 	db "BIRD@" ; species name
 	dw 150, 395 ; height, weight
-	; METRIC
+	
 	db   "Its outstanding"
 	next "vision allows it"
 	next "to spot splashing"

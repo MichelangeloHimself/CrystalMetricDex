@@ -1,6 +1,6 @@
 	db "DUCK@" ; species name
 	dw 080, 196 ; height, weight
-	; METRIC
+	
 	db   "The only time it"
 	next "can use its psy-"
 	next "chic power is when"

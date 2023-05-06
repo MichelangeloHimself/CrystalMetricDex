@@ -1,6 +1,6 @@
 	db "FAIRY@" ; species name
 	dw 060, 078 ; height, weight
-	; METRIC
+	
 	db   "In truth, it is a"
 	next "cowardly #MON."
 	next "It growls eagerly"

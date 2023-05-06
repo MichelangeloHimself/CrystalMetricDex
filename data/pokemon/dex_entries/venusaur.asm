@@ -1,6 +1,6 @@
 	db "SEED@" ; species name
 	dw 200, 1000 ; height, weight
-	; METRIC
+	
 	db   "As it warms it-"
 	next "self and absorbs"
 	next "the sunlight, its"

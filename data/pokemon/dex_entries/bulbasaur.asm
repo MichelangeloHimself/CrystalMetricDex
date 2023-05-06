@@ -1,6 +1,6 @@
 	db "SEED@" ; species name
 	dw 070, 069 ; height, weight
-	; METRIC
+	
 	db   "While it is young,"
 	next "it uses the"
 	next "nutrients that are"

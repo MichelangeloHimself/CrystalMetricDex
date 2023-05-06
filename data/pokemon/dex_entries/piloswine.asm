@@ -1,6 +1,6 @@
 	db "SWINE@" ; species name
 	dw 110, 558 ; height, weight
-	; METRIC
+	
 	db   "Although its legs"
 	next "are short, its"
 	next "rugged hooves"

@@ -1,6 +1,6 @@
 	db "LONG BODY@" ; species name
 	dw 180, 325 ; height, weight
-	; METRIC
+	
 	db   "It lives in narrow"
 	next "burrows that fit"
 	next "its slim body. The"
