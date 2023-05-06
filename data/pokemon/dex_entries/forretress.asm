@@ -1,5 +1,5 @@
 	db "BAGWORM@" ; species name
-	dw 120, 1285 ; height, weight
+	dw 120, 1258 ; height, weight
 	
 	db   "Usually found"
 	next "hanging on to a"

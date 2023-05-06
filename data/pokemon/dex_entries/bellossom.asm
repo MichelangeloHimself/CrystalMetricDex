@@ -1,5 +1,5 @@
 	db "FLOWER@" ; species name
-	dw 004, 058 ; height, weight
+	dw 040, 058 ; height, weight
 	
 	db   "When these dance"
 	next "together, their"
